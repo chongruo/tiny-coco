@@ -1,3 +1,3 @@
-# tiny-coco
+# Tiny-Coco
 
-a small coco dataset for visulization, fast loading(downloading) and debugging. 
+A small coco dataset for visulization, fast loading(downloading) and debugging. 
